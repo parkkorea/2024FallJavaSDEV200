@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2024FallJavaSDEV200.iml" filepath="$PROJECT_DIR$/.idea/2024FallJavaSDEV200.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramingEX6_25/ProgramingEX6_25.iml" filepath="$PROJECT_DIR$/ProgramingEX6_25/ProgramingEX6_25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramingEX8_29/ProgramingEX8_29.iml" filepath="$PROJECT_DIR$/ProgramingEX8_29/ProgramingEX8_29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramingEx6_9/ProgramingEx6_9.iml" filepath="$PROJECT_DIR$/ProgramingEx6_9/ProgramingEx6_9.iml" />
     </modules>
   </component>
 </project>
