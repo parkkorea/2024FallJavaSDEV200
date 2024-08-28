@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//8_29
 public class Ex8_29 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -32,16 +32,14 @@ public class Ex8_29 {
         int[] temp2 = new int[m1.length * m1[0].length];
 
         int k = 0;
-        for (int i = 0; i < m1.length; i++) {
+        for (int i = 0; i < m1.length; i++)
             for (int j = 0; j < m1[0].length; j++)
                 temp1[k++] = m1[i][j];
-        }
 
         k = 0;
-        for (int i = 0; i < m2.length; i++) {
+        for (int i = 0; i < m2.length; i++)
             for (int j = 0; j < m2[0].length; j++)
                 temp2[k++] = m2[i][j];
-        }
 
         java.util.Arrays.sort(temp1);
         java.util.Arrays.sort(temp2);
